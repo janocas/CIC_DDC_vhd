@@ -1,0 +1,8 @@
+*
+!*.md
+!.gitignore
+!*.xpr
+!*/
+!/cic3r32_Meyer-B.srcs/*
+!/cic3r32_Meyer-B.srcs/**/*
+!/Python/*
